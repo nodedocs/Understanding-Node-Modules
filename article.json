@@ -1,0 +1,17 @@
+{
+	"title": "Understanding Node Modules (Video)",
+	"description": "Understanding, Using and Creating Node Modules",
+	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
+	"tags": ["modules", "npm"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 3,
+  "categories": [
+    ["Intro", "Modules and NPM"]
+  ]
+}
